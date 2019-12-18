@@ -1,5 +1,7 @@
 # Single Layer Neural Network
 
+Project description: http://ranger.uta.edu/~kamangar/CSE-5368-FA18/Assignment03(Duedate.Oct.7,2018).html
+
 ### __Description:__  
 __Single layer Neural Network with 10 nodes to identify the MNIST dataset.__  
 The purpose of the this assignment is to practice with `Hebbian learning rules`.
